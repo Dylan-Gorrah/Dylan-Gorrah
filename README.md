@@ -1,19 +1,19 @@
-# 𓃵 Dylan LLuigi Di-Caprio Gorrah |  Architect of the Digital Realm 𓃶
-## 🚀 The GOAT of Web & App Dev | Software Sorcerer | Digital Visionary  
+# 𓃵 Dylan LLuigi Di-Caprio Gorrah | Architect of the Digital Realm 𓃶
+## 🚀 The GOAT of Web & App Dev | Software Sorcerer | Digital Visionary
 
 <div align="center">
-  
-  ![Pink Divider](https://capsule-render.vercel.app/api?type=waving&color=ff66b2&height=120&section=header)
 
-  Welcome to the ultimate GitHub profile. The **realm** where code bows in submission, and bugs dare not tread. You have entered the digital dominion of **Dylan Gorrah**, the architect behind clean code, elegant solutions, and next-gen applications. 👨‍💻✨
+![Pink Divider](https://capsule-render.vercel.app/api?type=waving&color=ff66b2&height=120&section=header)
+
+Welcome to the ultimate GitHub profile. The **realm** where code bows in submission, and bugs dare not tread. You have entered the digital dominion of **Dylan Gorrah**, the architect behind clean code, elegant solutions, and next-gen applications. 👨‍💻✨
 </div>
 
 ---
 
 ## 🔥 Quick Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanGorrah&theme=radical&background=000000&border=ff66b2" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanGorrah&show_icons=true&theme=radical&bg_color=000000&title_color=ff66b2&icon_color=ff66b2&border_color=ff66b2" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DylanGorrah&theme=radical&background=000000&border=ff66b2&cache_seconds=60" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DylanGorrah&show_icons=true&theme=radical&bg_color=000000&title_color=ff66b2&icon_color=ff66b2&border_color=ff66b2&count_private=true&cache_seconds=60" alt="GitHub Stats" width="48%"/>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGorrah&layout=compact&bg_color=000000&title_color=ff66b2&text_color=ffffff&border_color=ff66b2" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGorrah&layout=compact&bg_color=000000&title_color=ff66b2&text_color=ffffff&border_color=ff66b2&count_private=true&cache_seconds=60" alt="Top Languages" width="48%"/>
 </div>
 
 ---
@@ -48,10 +48,6 @@
 
 ---
 
-</div>
-
-
-
 ## 🏅 Achievements & Experience
 
 <div style="background-color: #000000; padding: 15px; border-radius: 10px; border-left: 5px solid #ff66b2;">
@@ -64,7 +60,7 @@
 ✅ **Shopify Explorer** – Dipping into e-commerce to level up my game 🛍️  
 ✅ **IT Governance Specialist** – Helping law firms stay ahead in the tech game ⚖️  
 ✅ **Programming Logic & Design Enthusiast** – Because the code should *think* smart 🧠  
-✅ **Game Developer (Hide & Seek App)** – Bringing location-based gaming to life 🎮  
+✅ **Game Developer (Hide & Seek App)** – Bringing location-based gaming to life 🎮
 
 </div>
 
@@ -77,7 +73,7 @@
 🌍 **Portfolio:** [Coming Soon...]  
 📧 **Email:** dylangorrah3@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/dylangorrah](https://linkedin.com/in/dylangorrah)  
-🐦 **Twitter/X:** [@DylanGorrah](https://twitter.com/DylanGorrah)  
+🐦 **Twitter/X:** [@DylanGorrah](https://twitter.com/DylanGorrah)
 
 </div>
 
@@ -90,3 +86,12 @@
 ![Pink Divider](https://capsule-render.vercel.app/api?type=waving&color=ff66b2&height=120&section=footer)
 
 </div>
+
+---
+
+### **🔧 Fixes Applied:**  
+✅ **Forced Cache Refresh** (`?cache_seconds=60`) to update stats faster.  
+✅ **Enabled Private Contributions** (`count_private=true`) to show all commits.  
+✅ **Checked GitHub API Endpoints** – using the latest ones.  
+
+**Final Step:** Commit & Push the changes to see the updates! 🚀
