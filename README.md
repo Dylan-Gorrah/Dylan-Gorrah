@@ -89,9 +89,3 @@ Welcome to the ultimate GitHub profile. The **realm** where code bows in submiss
 
 ---
 
-### **🔧 Fixes Applied:**  
-✅ **Forced Cache Refresh** (`?cache_seconds=60`) to update stats faster.  
-✅ **Enabled Private Contributions** (`count_private=true`) to show all commits.  
-✅ **Checked GitHub API Endpoints** – using the latest ones.  
-
-**Final Step:** Commit & Push the changes to see the updates! 🚀
