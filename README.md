@@ -1,91 +1,121 @@
-# 𓃵 Dylan LLuigi Di-Caprio Gorrah | Architect of the Digital Realm 𓃶
-## 🚀 The GOAT of Web & App Dev | Software Sorcerer | Digital Visionary
-
 <div align="center">
-
-![Pink Divider](https://capsule-render.vercel.app/api?type=waving&color=ff66b2&height=120&section=header)
-
-Welcome to the ultimate GitHub profile. The **realm** where code bows in submission, and bugs dare not tread. You have entered the digital dominion of **Dylan Gorrah**, the architect behind clean code, elegant solutions, and next-gen applications. 👨‍💻✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F776A2&height=200&section=header&text=Dylan%20Gorrah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=1200&color=F776A2&center=true&vCenter=true&width=650&lines=Founder+%26+CTO;MVP+%26+Rapid+Deployment;Mentor+%26+Solution+Architect" alt="Typing Animation" />
+</div>
+
+
+
+## ₪ Currently
+
+**Founder** at Echo — AI that thinks ahead  
+**Founder** at HelpWave Solutions — Enterprise-grade support systems  
+**Architect** of mobile experiences that matter
 
 ---
 
-## 🔥 Quick Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DylanGorrah&theme=radical&background=000000&border=ff66b2&cache_seconds=60" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanGorrah&show_icons=true&theme=radical&bg_color=000000&title_color=ff66b2&icon_color=ff66b2&border_color=ff66b2&count_private=true&cache_seconds=60" alt="GitHub Stats" width="48%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DylanGorrah&theme=monokai" alt="Profile Summary" width="98%"/>
-</div>
+## ₪ Philosophy
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGorrah&layout=compact&bg_color=000000&title_color=ff66b2&text_color=ffffff&border_color=ff66b2&count_private=true&cache_seconds=60" alt="Top Languages" width="48%"/>
-</div>
+Code should be invisible. Solutions should be inevitable.  
+The best technology disappears into perfect user experience.
 
 ---
 
-## 🏆 My Tech Arsenal
 
-### 💻 Programming Languages:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+## ₪ Recent Work
 
-### 🛠️ Frameworks & Libraries:
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AI%20Driven-00bfff?style=flat&logo=openai&logoColor=white)
+**Echo** — Intelligent daily insights platform  
+*React Native • AI Integration • 10k+ active users*
 
-### ⚙️ Tools & Platforms:
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-FFC107?style=flat&logo=lucidchart&logoColor=black)
+**HelpWave Solutions** — Technical consulting for law firms  
+*Enterprise Architecture • IT Governance • Scalable Support*
+
+**Hide & Seek** — Location-based gaming experience  
+*iOS • Android • Real-time Geolocation*
 
 ---
 
-## 🏅 Achievements & Experience
-
-<div style="background-color: #000000; padding: 15px; border-radius: 10px; border-left: 5px solid #ff66b2;">
-
-✅ **Founder of Echo** – The AI-driven app that delivers daily insights 🧠✨  
-✅ **Founder of HelpWave Solutions** – Providing top-tier tech support & solutions ⚡  
-✅ **Industry-Ready Application Developer** – Crafting software that stands the test of time 🏗️  
-✅ **Full-Stack Web Developer** – Crafting beautiful, functional, and scalable apps 🌎  
-✅ **Android & iOS App Enthusiast** – Building next-gen mobile experiences 📱  
-✅ **Shopify Explorer** – Dipping into e-commerce to level up my game 🛍️  
-✅ **IT Governance Specialist** – Helping law firms stay ahead in the tech game ⚖️  
-✅ **Programming Logic & Design Enthusiast** – Because the code should *think* smart 🧠  
-✅ **Game Developer (Hide & Seek App)** – Bringing location-based gaming to life 🎮
-
-</div>
-
----
-
-## 🔗 Connect With Me
+## ₪ Expertise
 
 <div align="center">
-  
-🌍 **Portfolio:** [Coming Soon...]  
-📧 **Email:** dylangorrah3@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/dylangorrah](https://linkedin.com/in/dylangorrah)  
-🐦 **Twitter/X:** [@DylanGorrah](https://twitter.com/DylanGorrah)
+
+<!-- Core Stacks -->
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Backend & Databases -->
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<!-- Languages -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<!-- Web -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- Tools -->
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
+
 
 ---
 
 <div align="center">
-  
-### 💡 Fun Fact: Even my bugs are features. 😉
 
-![Pink Divider](https://capsule-render.vercel.app/api?type=waving&color=ff66b2&height=120&section=footer)
+### ₪ Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Demolish-1&theme=minimal&hide_border=true&background=FFFFFF&stroke=E1E4E8&ring=000000&fire=000000&currStreakNum=000000&sideNums=666666&currStreakLabel=666666&sideLabels=666666&dates=666666" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Demolish-1&show_icons=true&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=666666&text_color=333333&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demolish-1&layout=compact&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=333333&langs_count=6" alt="Top Languages" width="49%" />
 
 </div>
 
 ---
 
+## ₪ Principles
+
+→ Simplicity is the ultimate sophistication  
+→ Every feature must earn its place  
+→ Performance is a feature, not an afterthought  
+→ Users should never think about the technology
+
+---
+
+## ₪ Contact
+
+[dylangorrah3@gmail.com](mailto:dylangorrah3@gmail.com)  
+[LinkedIn](https://linkedin.com/in/dylangorrah)  
+[Twitter](https://twitter.com/DylanGorrah)
+
+---
+## ₪ Technical Skills
+
+<div align="center">
+
+**Mobile Architecture**  
+![Progress](https://img.shields.io/badge/Progress-95%25-F776A2?style=flat-square)
+
+**Backend Systems**  
+![Progress](https://img.shields.io/badge/Progress-90%25-F776A2?style=flat-square)
+
+**AI Integration**  
+![Progress](https://img.shields.io/badge/Progress-88%25-F776A2?style=flat-square)
+
+**Enterprise Solutions**  
+![Progress](https://img.shields.io/badge/Progress-92%25-F776A2?style=flat-square)
+
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff66b2&height=150&section=footer"/>
+</p>
