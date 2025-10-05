@@ -74,10 +74,10 @@ The best technology disappears into perfect user experience.
 
 ### ₪ Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Demolish-1&theme=minimal&hide_border=true&background=FFFFFF&stroke=E1E4E8&ring=000000&fire=000000&currStreakNum=000000&sideNums=666666&currStreakLabel=666666&sideLabels=666666&dates=666666" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dylan-Gorrah&theme=minimal&hide_border=true&background=FFFFFF&stroke=E1E4E8&ring=000000&fire=000000&currStreakNum=000000&sideNums=666666&currStreakLabel=666666&sideLabels=666666&dates=666666" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Demolish-1&show_icons=true&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=666666&text_color=333333&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demolish-1&layout=compact&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=333333&langs_count=6" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dylan-Gorrah&show_icons=true&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=666666&text_color=333333&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Gorrah&layout=compact&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=333333&langs_count=6" alt="Top Languages" width="49%" />
 
 </div>
 
