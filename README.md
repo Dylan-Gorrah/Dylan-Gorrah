@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F776A2&height=200&section=header&text=Dylan%20Gorrah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=1200&color=F776A2&center=true&vCenter=true&width=650&lines=Founder+%26+CTO;MVP+%26+Rapid+Deployment;Mentor+%26+Solution+Architect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=1200&color=F776A2&center=true&vCenter=true&width=650&lines=MVP+Specialist;2+Years+Experience;Rapid+Deployment+Expert+%2B+Full-Stack;Best+in+Class+%2B+Best+Tutor%2FTeacher;Mentor+%26+Solutions+Architect;Human+Psychology" alt="Typing Animation" />
 </div>
 
 
