@@ -11,7 +11,7 @@
 
 **Former Tutor / Teacher** at IIE Rosebank College  
 **Graduate** with a Diploma in IT: Software Development  
-**experience** — 2+ years
+**experience** — 2 years +
 
 ---
 
