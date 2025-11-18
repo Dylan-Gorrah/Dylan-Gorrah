@@ -9,9 +9,9 @@
 
 ## ₪ Currently
 
-**Former Tutor / Teacher** at IIE Rosebank College — 2+ years experience  
+**Former Tutor / Teacher** at IIE Rosebank College  
 **Graduate** with a Diploma in IT: Software Development  
-**Architect of the Digital Realm** — crafting clean, impactful software experiences
+**experience** — 2+ years
 
 ---
 
@@ -86,7 +86,7 @@ All the complexity should stay hidden behind the scenes.
 
 ## ₪ Principles
 
-→ Simplicity in Experince 
+→ Simplicity in experience
 → Every feature must earn its place  
 → Performance is a feature, not an afterthought  
 → Users should never think about the technology
