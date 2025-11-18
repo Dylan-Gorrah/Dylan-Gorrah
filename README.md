@@ -9,17 +9,17 @@
 
 ## ₪ Currently
 
-**Founder** at Echo — AI that thinks ahead  
-**Founder** at HelpWave Solutions — Enterprise-grade support systems  
-**Architect** of mobile experiences that matter
+**Former Tutor / Teacher** at IIE Rosebank College — 2+ years experience  
+**Graduate** with a Diploma in IT: Software Development  
+**Architect of the Digital Realm** — crafting clean, impactful software experiences
 
 ---
 
 
 ## ₪ Philosophy
 
-Code should be invisible. Solutions should be inevitable.  
-The best technology disappears into perfect user experience.
+Users deserve a clean, effortless experience.
+All the complexity should stay hidden behind the scenes.
 
 ---
 
@@ -86,7 +86,7 @@ The best technology disappears into perfect user experience.
 
 ## ₪ Principles
 
-→ Simplicity is the ultimate sophistication  
+→ Simplicity in Experince 
 → Every feature must earn its place  
 → Performance is a feature, not an afterthought  
 → Users should never think about the technology
