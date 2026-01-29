@@ -2,16 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F776A2&height=200&section=header&text=Dylan%20Gorrah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=1200&color=F776A2&center=true&vCenter=true&width=650&lines=MVP+Specialist;2+Years+Experience;Rapid+Deployment+Expert+%2B+Full-Stack;Best+in+Class+%2B+Best+Tutor%2FTeacher;Mentor+%26+Solutions+Architect;Human+Psychology" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3200&pause=1200&color=F776A2&center=true&vCenter=true&width=650&lines=MVP+Specialist;4+Years+Experience;Rapid+Deployment+Expert+%2B+Full-Stack;Best+in+Class+%2B+Best+Tutor%2FTeacher;Mentor+%26+Solutions+Architect;Human+Psychology" alt="Typing Animation" />
 </div>
 
 
 
 ## ₪ Currently
 
-**Former Tutor / Teacher** at IIE Rosebank College  
+**Tutor / Junior Softwere Dev Teacher** at IIE Rosebank College  
 **Graduate** with a Diploma in IT: Software Development  
-**experience** — 2 years +
+**experience** — 4 years + coding
 
 ---
 
@@ -27,13 +27,13 @@ All the complexity should stay hidden behind the scenes.
 ## ₪ Recent Work
 
 **Echo** — Intelligent daily insights platform  
-*React Native • AI Integration • 10k+ active users*
+*React Native • AI Integration • [In Progress]*
 
 **HelpWave Solutions** — Technical consulting for law firms  
 *Enterprise Architecture • IT Governance • Scalable Support*
 
 **Hide & Seek** — Location-based gaming experience  
-*iOS • Android • Real-time Geolocation*
+*iOS • Android • Real-time Geolocation* [In Progress]
 
 ---
 
@@ -67,6 +67,13 @@ All the complexity should stay hidden behind the scenes.
 
 </div>
 
+---
+
+## ₪ Animated Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,typescript,javascript,nodejs,firebase,supabase,java,dotnet,cs,html,css,androidstudio&theme=light&perline=7" />
+</div>
 
 ---
 
@@ -79,6 +86,31 @@ All the complexity should stay hidden behind the scenes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dylan-Gorrah&show_icons=true&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=666666&text_color=333333&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Gorrah&layout=compact&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=333333&langs_count=6" alt="Top Languages" width="49%" />
+
+</div>
+
+---
+
+## ₪ Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dylan-Gorrah/Dylan-Gorrah/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dylan-Gorrah/Dylan-Gorrah/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dylan-Gorrah/Dylan-Gorrah/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## ₪ Code Time Stats
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dylan-Gorrah&layout=compact&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=333333" alt="WakaTime Stats" />
 
 </div>
 
