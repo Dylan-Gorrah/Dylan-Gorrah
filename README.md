@@ -69,50 +69,21 @@ All the complexity should stay hidden behind the scenes.
 
 ---
 
-## ₪ Animated Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,typescript,javascript,nodejs,firebase,supabase,java,dotnet,cs,html,css,androidstudio&theme=light&perline=7" />
-</div>
 
----
 
 <div align="center">
 
 ### ₪ Activity
 
-![Dylan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dylan-Gorrah&bg_color=ffffff&color=000000&line=F776A2&point=000000&area=true&hide_border=true)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dylan-Gorrah&show_icons=true&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=666666&text_color=333333&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Gorrah&layout=compact&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=333333&langs_count=6" alt="Top Languages" width="49%" />
-
-</div>
-
----
-
-## ₪ Contribution Snake
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dylan-Gorrah/Dylan-Gorrah/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dylan-Gorrah/Dylan-Gorrah/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dylan-Gorrah/Dylan-Gorrah/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dylan-Gorrah&theme=radical" alt="Contribution Graph" />
 </div>
 
----
 
-## ₪ Code Time Stats
 
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dylan-Gorrah&layout=compact&theme=minimal&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=333333" alt="WakaTime Stats" />
 
-</div>
 
 ---
 
