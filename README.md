@@ -1,8 +1,8 @@
 <div align="center">
   <br>
-  <code>[ SYSTEM ARCHITECT // FOUNDER // INSTRUCTOR ]</code>
+  <code>[ Developer // FOUNDER // INSTRUCTOR ]</code>
   <h1>DYLAN GORRAH</h1>
-  <code>[ STIPPLING COMPLEXITY DOWN TO SILENCE ]</code>
+  <code>[ TURNING RUFF IDEAS , INTO WORKING SYSTEMS ]</code>
   <br><br>
 </div>
 
@@ -18,8 +18,9 @@
     </td>
     <td width="70%">
       <b>[ 01 ] // IDENTITY & ORIGIN</b><br><br>
-      I'm <b>Dylan Gorrah</b>, Founder of <a href="https://dylan-gorrah.github.io/QuietBedrock/"><b>Quiet Bedrock</b></a> and a software dev tutor with 3 years of hands-on engineering and teaching experience.<br><br>
-      By day, I teach and mentor at <b>IIE Rosebank College</b> (Bloemfontein). By night, I architect clean, high-performance systems and build developer tools designed to strip away unnecessary complexity.<br><br>
+      I'm <b>Dylan Gorrah</b>, Founder of <a href="https://dylan-gorrah.github.io/QuietBedrock/"><b>Quiet Bedrock</b></a> and a software dev tutor with 3 years of hands-on Dev and teaching experience.<br><br>
+      By day, I teach and mentor at <b>IIE Rosebank College</b> (Bloemfontein). By night, I Convert new clientsm and desighn premium sites and Systems.<br>
+      <br>
       <b>⚙️ Core Stack:</b><br>
       <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -42,7 +43,7 @@
         </li>
         <br>
         <li>
-          <b>TUTOR-LINK</b> &nbsp; Redesigning and modernizing the tutorial program administration system at Rosebank College, because manual academic tracking needs a complete engineering overhaul.
+          <b>TUTOR-LINK</b> &nbsp; Redesigning and modernizing the tutorial program administration system at Rosebank College, [CURENT]
         </li>
         <br>
         <li>
@@ -50,7 +51,7 @@
         </li>
         <br>
         <li>
-          <b>SOK</b> &nbsp; A custom-branded e-commerce store engineered from scratch to stress-test modern payment gateways and transaction architectures.
+          <b>SOK</b> &nbsp; A custom-branded e-commerce store made FROM SCRATCH to stress-test my own understanding of modern payment gateways and transaction like STRYP and PAYFAST.
         </li>
       </ul>
     </td>
