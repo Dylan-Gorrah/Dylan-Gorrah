@@ -18,7 +18,7 @@
     </td>
     <td width="70%">
       <b>[ 01 ] // IDENTITY & ORIGIN</b><br><br>
-      I'm <b>Dylan Gorrah</b>, Founder of <a href="https://dylan-gorrah.github.io/QuietBedrock/"><b>Quiet Bedrock</b></a> and a software dev tutor with 3 years of hands-on Dev and teaching experience.<br><br>
+      I'm <b>Dylan Gorrah</b>, Founder of <a href="https://dylan-gorrah.github.io/QuietBedrock/"><b>Quiet Bedrock</b></a>, My own software dev company building websites and systems for businesses and anyone who needs the service.  a software dev tutor with 3 years of hands-on Dev and teaching experience.<br><br>
       By day, I teach and mentor at <b>IIE Rosebank College</b> (Bloemfontein). By night, I Convert new clientsm and desighn premium sites and Systems.<br>
       <br>
       <b>⚙️ Core Stack:</b><br>
@@ -39,15 +39,15 @@
     <td width="80%">
       <ul>
         <li>
-          <a href="https://dylan-gorrah.github.io/QuietBedrock/"><b>QUIET BEDROCK</b></a> &nbsp; Minimalist systems, boutique digital architecture, and custom code designed to run silently in the background.
+          <a href="https://dylan-gorrah.github.io/QuietBedrock/"><b>QUIET BEDROCK</b></a> &nbsp; Minimalist easy to use systems, websites etc.
         </li>
         <br>
         <li>
-          <b>TUTOR-LINK</b> &nbsp; Redesigning and modernizing the tutorial program administration system at Rosebank College, [CURENT]
+          <b>TUTOR-LINK</b> &nbsp; Modernizing the tutorial program's administration system at Rosebank College, [CURENT]
         </li>
         <br>
         <li>
-          <b>BLOEMFONTEIN HACKATHONS</b> &nbsp; Organizing high-impact local tech events <i>(actively looking for sponsors)</i> to fuel regional developer culture.
+          <b>BLOEMFONTEIN HACKATHONS</b> &nbsp; Organizing small local tech events <i>(actively looking for sponsors)</i> to advancing the local tech culture.
         </li>
         <br>
         <li>
@@ -75,8 +75,8 @@
 
 <br>
 
-> Code is never finished. It only becomes slightly less terrible over time.<br><br>
-> All complexity should stay hidden behind the scenes. Users deserve a clean, effortless experience.
+> Tech should not be complicated, no one should have to learn to use your software. <br><br>
+> Users don't care how clever your code is, only how fast it gets them where they're going.
 
 <br>
 
