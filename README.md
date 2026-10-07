@@ -69,7 +69,6 @@
 <div align="center">
   <a href="https://github.com/Dylan-Gorrah"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dylangorrah"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/DylanGorrah"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:dylangorrah3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -80,14 +79,8 @@
 
 <br>
 
-### ₪ Contribution Matrix
-
-<div align="center">
-  <!-- Clean high-contrast white/monochrome styled activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dylan-Gorrah&theme=xcode&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
 
 <br>
 <p align="center">
-  <code>[ ░▒▓█ QUIET BEDROCK SYSTEMS // END OF TRANSMISSION █▓▒░ ]</code>
+  <code>[ ░▒▓█  QUIET BEDROCK  █▓▒░ ]</code>
 </p>
